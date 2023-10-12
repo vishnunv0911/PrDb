@@ -1,6 +1,9 @@
 # PrDb
 A protein sequence fetching and database-building tool
 
+### NOTE
+Currently optimized to work with IAV subtypes and their respective protein sequences. Certain functions may not work accurately for other organisms.
+
 ### Introduction
 
 The PRDB (Protein Retrieval Database) program is designed to fetch protein sequences of Influenza A Virus (IAV) from the NCBI database using taxonomic IDs. This manual provides instructions on how to use the program effectively.
